@@ -331,7 +331,21 @@ npm run start
 
 ## Credits
 
-* [Nick Sarris / Blinkhash](https://github.com/blinkhash) - developer behind Blinkhash Mining Pool/NOMP updates
+#### Blinkhash
+* [Nick Sarris / Blinkhash](https://github.com/blinkhash) - developer behind Blinkhash updates
+
+#### S-NOMP
+* [egyptianbman](https://github.com/egyptianbman) - developer behind S-NOMP updates
+* [nettts](https://github.com/nettts) - developer behind S-NOMP updates
+* [potato](https://github.com/zzzpotato) - developer behind S-NOMP updates
+
+#### Z-NOMP
+* [Joshua Yabut / movrcx](https://github.com/joshuayabut) - developer behind Z-NOMP updates
+* [Aayan L / anarch3](https://github.com/aayanl) - developer behind Z-NOMP updates
+* [hellcatz](https://github.com/hellcatz) - developer behind Z-NOMP updates
+
+#### NOMP
+* [Matthew Little / zone117x](https://github.com/zone117x) - developer behind NOMP updates
 * [Jerry Brady / mintyfresh68](https://github.com/bluecircle) - got coin-switching fully working and developed proxy-per-algo feature
 * [Tony Dobbs](http://anthonydobbs.com) - designs for front-end and created the NOMP logo
 * [LucasJones](//github.com/LucasJones) - got p2p block notify working and implemented additional hashing algos
